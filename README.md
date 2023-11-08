@@ -16,3 +16,9 @@ To keep the product selection process as untainted as possible, you have been in
 The marketing team is not only interested in the total number of clicks, but also the percentage of times that an item was clicked when it was shown. So, you’ll also need to keep track of how many times each image is displayed and do the calculations.
 
 You are also responsible for the look and feel of the app, so don’t forget a custom font, color palette, layout with semantic HTML, and so on.
+
+## Here is a Screenshot of the Accessibility Audit Page:
+
+![Accessibility Audit Page](images/screenshot.png)
+
+
