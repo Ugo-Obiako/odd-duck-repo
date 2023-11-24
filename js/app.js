@@ -13,7 +13,7 @@ const showResultsSection = document.getElementById('results');
 let leftProduct = null;
 let middleProduct = null;
 let rightProduct = null;
-const maxRounds = 5;
+const maxRounds = 25;
 let currentRound = 0;
 
 
@@ -155,6 +155,7 @@ function renderChart() {
   https://www.chartjs.org/docs/latest/charts/bar.html
   and refer to Chart.js > Getting Started > Getting Started:
   https://www.chartjs.org/docs/latest/getting-started/ */
+  
   const data = {
     labels: itemNames,
     datasets: [{
