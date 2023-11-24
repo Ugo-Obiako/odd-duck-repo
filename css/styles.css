@@ -41,3 +41,9 @@ button:active{
 img:active{
   border-color: blue;
 }
+
+#chartContainer {
+  padding: 2rem;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
