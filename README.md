@@ -19,6 +19,6 @@ You are also responsible for the look and feel of the app, so don’t forget a c
 
 ## Here is a Screenshot of the Accessibility Audit Page:
 
-![Accessibility Audit Page](images/screenshot.png)
+![Accessibility Audit Page](images/Screenshot-Lighthouse.png)
 
 
